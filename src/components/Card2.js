@@ -18,7 +18,7 @@ class Card2 extends React.Component {
             if (Prompt === "y"){
               window.location.reload()
             } else {
-              window.location.pathname = "/"
+              window.location.pathname = "/#"
             }
         }
       }
